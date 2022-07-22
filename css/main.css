@@ -21,6 +21,9 @@ h1 {
     line-height: 2.5em;
 }
 
+h3 {
+    text-align: center;
+}
 main.wrapper {
     background-color: white;
     overflow: auto;
