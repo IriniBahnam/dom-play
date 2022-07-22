@@ -9,6 +9,9 @@ html {
     line-height: 1.5em;
 }
 
+#explain {
+    text-align: center;
+}
 ::selection {
     color: #000; 
     background: #ff0;
